@@ -32,14 +32,14 @@
     [
         "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 672,
             "modifiedTime": 1572121433843,
             "changeTime": 1572121433843,
-            "contentHash": "faa1382e67cda6e45526e0d18b0c028270b35e7b"
+            "contentHash": "faa1382e67cda6e45526e0d18b0c028270b35e7b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -5025,16 +5025,14 @@
     [
         "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default/classes/TestFileTrack.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default/classes/TestFileTrack.cls",
             "isDirectory": false,
-            "size": 31,
-            "modifiedTime": 1572119753250,
-            "changeTime": 1572120063823,
-            "contentHash": "ef7ad29486601745f2b26d15c3033b98683c0002",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 69,
+            "modifiedTime": 1572121572186,
+            "changeTime": 1572121572186,
+            "contentHash": "fb64166b0ef9a4b2f728add5631f65e835780ad3"
         }
     ],
     [
@@ -7440,27 +7438,27 @@
     [
         "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 34381,
             "modifiedTime": 1572121433854,
             "changeTime": 1572121433854,
-            "contentHash": "c88f47f0351337cab8fd712b0e9966a78882193d"
+            "contentHash": "c88f47f0351337cab8fd712b0e9966a78882193d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/abhishekagrawal/Desktop/cpm1/gitcli/CheckVersionControl/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1572121433854,
             "changeTime": 1572121433854,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
