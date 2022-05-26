@@ -59,5 +59,4 @@ public with sharing class BotController {
         }
         
     }
-    
 }
