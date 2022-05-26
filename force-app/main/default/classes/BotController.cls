@@ -58,5 +58,6 @@ public with sharing class BotController {
             return new BotResponse(new BotMessage('Bot', 'Oops, something went wrong invoking that command'));
         }
         
+        
     }
 }
